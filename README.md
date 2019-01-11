@@ -1,6 +1,6 @@
 # MachineLearning-exercises
 
-Exercises outlined by Andrew Ng
+Exercises outlined by Andrew Ng__
 MATLAB/Ocatve
 
 * ex1: Linear Regression
