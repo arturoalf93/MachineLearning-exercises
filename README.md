@@ -1,6 +1,5 @@
 # MachineLearning-exercises
 
-Exercises outlined by Andrew Ng<br/>
 MATLAB/Ocatve
 
 * ex1: Linear Regression
@@ -11,3 +10,5 @@ MATLAB/Ocatve
 * ex6: Support Vector Machines
 * ex7: K-means Clustering and Principal Component Analysis
 * ex8: Anomaly Detection and Recommender Systems
+
+Exercises outlined by Andrew Ng
